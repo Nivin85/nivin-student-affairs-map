@@ -1,4 +1,4 @@
-name: Deploy Nivin Student Affairs Map
+name: Deploy Student Affairs Executive Hub
 
 on:
   push:
